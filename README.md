@@ -1,5 +1,7 @@
 # Karavali Ice Creams
 
+[![Live Website](https://img.shields.io/badge/Live%20Website-Visit%20Now-0a7e6e?style=for-the-badge&logo=google-chrome&logoColor=white)](https://shravanvinayhege.github.io/Karavali/)
+
 
 Karavali Ice Creams is a regional ice cream brand built around its own production facility and cold-chain logistics, ensuring fresh milk-based products reach customers without middlemen.
 
@@ -76,18 +78,7 @@ We are hiring for:
 - Sales
 - Customer service
 
----
 
-## 📞 Contact
-
-| Method | Details |
-|--------|---------|
-| 📱 Phone | 9449227171, 9492274346, 8762152350 |
-| ✉️ Email | [karavali7171@gmail.com](mailto:karavali7171@gmail.com) |
-| 💬 WhatsApp | [+91 9449227171](https://wa.me/919449227171) |
-| 📍 Location | Honnavar, Uttara Kannada, Karnataka, India |
-
----
 
 
 
